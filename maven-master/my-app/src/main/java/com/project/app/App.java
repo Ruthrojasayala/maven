@@ -14,7 +14,6 @@ public class App
             for ( int i = number; i < number*2; i++ ){
                 Thread.sleep(1000);
                 System.out.println( "Doing " + i);
-                for ()
             }
         }
         catch (Exception e) {
