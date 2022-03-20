@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        int number='53'
+        int number='53';
         System.out.println( "Jenkins DevOps! " + number);
          try {
             for ( int i = number; i < number*2; i++ ){
